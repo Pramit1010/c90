@@ -1,0 +1,52 @@
+
+body{
+    background-color: black;
+}
+
+.login_div1 , .login_div2
+{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player1_name , #player2_name{
+    display: inline-block;
+    margin-left: 3px;
+}
+
+#word{
+    width: 60%;
+}
+
+#word_display{
+    letter-spacing: 5px;
+}
+
+#output{
+    background: rgb(248, 248, 248);
+    border-radius: 10px;
+    border-top: 10px solid rgb(0, 0, 0);
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+.btn{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    font-family: 'Beau Rivage', cursive;
+}
+
+h2{
+color: rgb(250, 250, 250);
+font-family: 'Beau Rivage', cursive;
+}
+
+h4{
+color: rgb(252, 252, 252);
+font-family: 'Beau Rivage', cursive;
+}
